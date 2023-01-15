@@ -1381,7 +1381,7 @@ textarea {
     background-size: cover;
   }
      .desk-title {
-       font-weight: 500;
+      font-weight: 500;
        font-size: 20px;
        line-height: 1.2;
        margin-top: 8px;
@@ -1459,7 +1459,7 @@ textarea {
     padding-bottom: 120px;
   }
   .caption {
-    font-weight: 600;
+    font-weight: 700;
     font-size: 36px;
     line-height: 1.1;
     margin-top: 0;
